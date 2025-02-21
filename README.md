@@ -72,7 +72,7 @@
     <h1>Ciao Amore ❤️</h1>
     <p>Sei il mio tutto e riempi ogni giorno di gioia e amore. 💛</p>
     <video id="video" controls>
-        <source src="https://github.com/tagjunior91/Prova-3/blob/main/SnapTik_App_7468275277735529750.mp4" type="video/mp4">
+        <source src="/https://github.com/tagjunior91/Prova-3/blob/main/SnapTik_App_7468275277735529750.mp4" type="video/mp4">
         Il tuo browser non supporta i video.
     </video>
     <button onclick="startMusic()">Avvia Musica</button>
