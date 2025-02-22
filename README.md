@@ -10,7 +10,7 @@
   <div id="content">
     <h1 id="message">Sei la persona più importante della mia vita!</h1>
     <video id="video" controls>
-      <source src="video.mp4" type="video/mp4">
+      <source src="https://github.com/tagjunior91/Prova-3/blob/main/SnapTik_App_7468275277735529750.mp4" type="video/mp4">
       Il tuo browser non supporta i video.
     </video>
   </div>
